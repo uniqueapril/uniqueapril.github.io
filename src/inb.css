@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(27, 27, 27);
+    font-size: medium;
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    font-family: monospace;
+}
+
+a {
+    font-size: medium;
+    font: caption;
+    color: rgb(255, 196, 196);
+
+}
+
+h1 {
+    font-family: monospace;
+}
+
+h3 {
+    font-family: monospace;
+}
+
+h4 {
+    font-family: monospace;
+}
+
+p {
+    font: caption;
+}
+
+button {
+    stroke: rgb(0, 0, 0);
+    stroke-width: 0cqb;
+    align-items: normal;
+    color: rgb(255, 255, 255);
+    background-color: rgb(83, 19, 232);
+    position: static;
+}
+
+.box {
+    box-shadow: 0cap;
+    background-color: rgb(27, 27, 27);
+    color: rgb(255, 0, 0);
+    font-style: oblique;
+    text-decoration-style: none;
+}
