@@ -10,8 +10,8 @@ h2 {
 
 a {
     font-size: medium;
-    font: caption;
-    color: rgb(255, 196, 196);
+    font-family: monospace;
+    color: rgb(147, 48, 209);
 
 }
 
